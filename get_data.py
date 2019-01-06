@@ -24,15 +24,7 @@ channel	6
 cityId	
 gpsLat	23.135075
 gpsLng	113.357076
-lat	23.135075
-lng	113.357076
-mtWmPoiId	544259269263747
-orderPlatform	
 shopId	0
 source	shoplist
-wm_actual_latitude	23135075
-wm_actual_longitude	113357076
-wm_latitude	0
-wm_longitude	0
     '''
     re_data(a)
