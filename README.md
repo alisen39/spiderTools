@@ -13,6 +13,6 @@
 > 最后一行的值便是python的字典格式，也是requests,scrapy支持的data格式。
 
 ## 注意
-* get_headers.py 仅支持解析从`raw`里复制出来的值
-* get_data.py 仅支持解析从`WebForm`里复制出来的值
-* get_cookie.py 仅支持解析从`cookie`里复制出来的值
+* get_headers.py 仅支持解析从`Raw`里复制出来的值
+* get_data.py 仅支持解析从`WebForms`里复制出来的值
+* get_cookie.py 仅支持解析从`Cookies`里复制出来的值
