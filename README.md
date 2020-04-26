@@ -1,3 +1,7 @@
+## 在线地址  
+https://alisen39.com  
+
+
 ## 说明
 * 此工具类主要为了解决使用fiddler进行抓包时将header，data，cookie快速转换为python的字典的方法。
 
@@ -15,4 +19,5 @@
 ## 注意
 * get_headers.py 仅支持解析从`Raw`里复制出来的值
 * get_data.py 仅支持解析从`WebForms`里复制出来的值
-* get_cookie.py 仅支持解析从`Cookies`里复制出来的值
+* get_cookie.py 仅支持解析从`Cookies`里复制出来的值  
+  
